@@ -1,0 +1,15 @@
+{
+  "name": "select2-dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
